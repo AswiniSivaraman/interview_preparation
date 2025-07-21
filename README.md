@@ -6,3 +6,4 @@
 4) python
 5) statistics
 6) machine learning
+7) deep learning
