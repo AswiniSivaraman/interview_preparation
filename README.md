@@ -7,3 +7,4 @@
 5) statistics
 6) machine learning
 7) deep learning
+8) NLP
