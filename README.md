@@ -8,3 +8,4 @@
 6) machine learning
 7) deep learning
 8) NLP
+9) aptitude
