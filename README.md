@@ -9,3 +9,5 @@
 7) deep learning
 8) NLP
 9) aptitude
+10) RAG & LLM
+11) project explanation
